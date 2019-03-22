@@ -15,7 +15,7 @@ Omus was designed carefully with simplicity in mind. Our only goal was to make t
 
 Below is a small illustration how the infrared sensors calculate the distance of a target and provide a voltage reading on the sensors output. Sensors at the top of the robot provided longer range. There are smaller sensors on the bottom to detect the edge of the arena.
 
-!["IR Sensors"](/images/anim_infrared.gif)
+!["IR Sensors"](/images/anim_infrared_forever.gif)
 
 Heres the competition poster of the opposing robot.
 
