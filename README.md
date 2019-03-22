@@ -7,11 +7,11 @@ Omus was an autonomous competition robot made in 2015 for my senior design class
 " target="_blank"><img src="https://i.ytimg.com/vi_webp/PSQAqRDqKhY/sddefault.webp"
 alt="Youtube video of our robot in action" width="1280" height="720" border="0" /></a>
 
-!["Omus Final Version"](/images/omus3.png)
+!["Omus Final Version"](/images/omus3_final.png)
 
 Omus was designed carefully with simplicity in mind. Our only goal was to make the robot as short as possible. To achieve this we made several iterations where each prototype added more features and lowered in height.
 
-!["Iterative Design"](/images/iteration.png)
+!["Iterative Design"](/images/iteration_final.png)
 
 Below is a small illustration how the infrared sensors calculate the distance of a target and provide a voltage reading on the sensors output. Sensors at the top of the robot provided longer range. There are smaller sensors on the bottom to detect the edge of the arena.
 
